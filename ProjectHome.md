@@ -1,0 +1,1 @@
+Implementation of faceted (advanced) search with composite client side UI. Abstraction interfaces for intagration with different server side technologies, implementation for ASP.NET MVC.
